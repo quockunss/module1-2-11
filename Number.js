@@ -61,11 +61,16 @@ class Number{
 
 
     checkN(){
+        let str = ""
         for (let i = 0; i < this.arr.length; i++){
             if (this.arr[i] == this.number){
+                str += i + ', ';
             }
-        }
+        }document.getElementById()
     }
+
+
+
 
 
 
